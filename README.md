@@ -1,2 +1,2 @@
-# elm-start-up-template
-Elm Start Up Template
+# elm start-up template
+Elm start-up Template
